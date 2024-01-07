@@ -1,0 +1,14 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin-top: 2%;
+    margin-right: 5%;
+    margin-bottom: 3%;
+    margin-left: 5%;
+  }
+strong {
+  color: red;
+}
+.blue {
+  color: blue;
+}
